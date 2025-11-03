@@ -82,19 +82,19 @@ You will need the following components:
 ---
 
 🎥 7. Demonstration Video
-📺 Watch the full setup and working demo on YouTube:
+📺 Watch the full setup and working demo on YouTube:  
 https://youtu.be/Vq6aPo1krZI?si=ukcDjkZ7IksO_es_
 
 ---
 
 🔗 8. References and Useful Links
-- Official Blynk Documentation: https://docs.blynk.io/en/
-- ESP32 Pinout Reference: https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
+- Official Blynk Documentation:   https://docs.blynk.io/en/
+- ESP32 Pinout Reference:   https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
 
 ---
 
-🧑‍💻 Author
-Nisarg Vyas
+🧑‍💻 Author:  
+Nisarg Vyas  
 Made with ❤️ for learning and building cool IoT projects!
 
 ---
