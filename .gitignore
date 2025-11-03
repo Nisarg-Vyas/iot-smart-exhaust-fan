@@ -1,0 +1,23 @@
+# Arduino / ESP32 build files
+*.bin
+*.elf
+*.hex
+*.map
+*.dmp
+
+# Arduino sketch build folder
+build/
+.pio/
+.vscode/
+.DS_Store
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.swp
+
+# MacOS files
+._*
+.Spotlight-V100
+.Trashes
+.vscode/
