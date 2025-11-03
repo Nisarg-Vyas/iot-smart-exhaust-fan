@@ -26,7 +26,9 @@ You will need the following components:
   - `WiFi`
 - You shall be knowing how to write/use basic codes of Arduino and ESP32 in order to make this project
 
-> You can certainly take help of AI such as ChatGPT if you are struct somewhere, or even contact me, I would be really happy to help. Find my contact from my profile!
+> You can certainly take help of AI such as ChatGPT if you are struct somewhere, or even contact me, I would be really happy to help. Find my contact from my profile!    
+
+
 > You can install libraries in Arduino IDE by going to  
 > **Sketch → Include Library → Manage Libraries → Search and Install**
 
@@ -81,7 +83,7 @@ You will need the following components:
 
 ---
 
-🎥 7. Demonstration Video
+🎥 7. Demonstration Video  
 📺 Watch the full setup and working demo on YouTube:  
 https://youtu.be/Vq6aPo1krZI?si=ukcDjkZ7IksO_es_
 
